@@ -1,0 +1,2 @@
+This is file write operation of python
+This data is also written by python
